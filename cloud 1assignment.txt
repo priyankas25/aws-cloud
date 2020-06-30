@@ -1,0 +1,34 @@
+AWS ASSIGNMENT--
+
+1)what is cloud computing?
+ans-Cloud computing is the delivery of on demand computing services  from applications to storage and processing power  typically over the internet and on a pay as you go basis. 
+Rather than owning their own computing infrastructure or data centers companies can rent access to anything from applications to storage from a cloud service provider.
+
+2) advantages and disadvantages of cloud computing-
+ans-
+advantages-
+One benefit of using cloud computing services is that firms can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure, and instead simply pay for what they use  when they use it.
+
+Once the data is stored in the cloud, it is easier to get back-up and restore that data using the cloud.
+
+Cloud allows us to quickly and easily access store information anywhere, anytime in the whole world, using an internet connection. An internet cloud infrastructure increases organization productivity and efficiency by ensuring that our data is always accessible.
+
+disadvantages-
+in cloud computing, every data is stored on the cloud, and we access these data through the cloud by using the internet connection. If you do not have good internet connectivity, you cannot access these data. However, we have no any other way to access data from the cloud.
+
+cloud infrastructure is completely owned, managed, and monitored by the service provider, so the cloud users have less control over the function and execution of services within a cloud infrastructure.
+
+a cloud computing service provider. While sending the data on the cloud, there may be a chance that your organization's information is hacked by Hackers.
+
+3) what is EC-2?
+ans-Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to invest in hardware up front, so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few virtual servers as you need, configure security and networking, and manage storage. Amazon EC2 enables you to scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic.
+
+4) types of cloud-
+ans-there are 3 types of cloud-
+
+Public Cloud – Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.
+
+Private Cloud – Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while using a private network.
+Hybrid Cloud – using both private and public clouds, depending on their purpose. You host your most important applications on your own servers to keep them more secure and secondary applications elsewhere.
+Community Cloud – A community cloud is shared between organizations with a common goal or that fit into a specific community (professional community, geographic community, etc.).
+
